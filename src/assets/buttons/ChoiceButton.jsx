@@ -6,6 +6,7 @@ export default function ChoiceButton({ source, elementID, handleClick, name }) {
   const [clickShadow, setClickShadow] = useState(false);
   return (
     <button
+      aria-label={name + "Button"}
       onClick={() => {
         handleClick(name, isHidden);
         setClickShadow(true);
