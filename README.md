@@ -32,10 +32,10 @@ In this project, main topic was about building out rock, paper, scissors game as
 <img width="958" alt="2" src="https://github.com/DawidBed99/RPS/assets/128499430/11370869-d1de-4dfd-bd9d-bfbbe7dc7dab">
 <img width="958" alt="3" src="https://github.com/DawidBed99/RPS/assets/128499430/0e1ea3dd-7a86-44c3-a5e6-16c6e19786a8">
 <img width="958" alt="4" src="https://github.com/DawidBed99/RPS/assets/128499430/797dd97b-1cf7-4876-8b0b-fad4540a7135">
-<img width="250" alt="5" src="https://github.com/DawidBed99/RPS/assets/128499430/9b548032-20ca-4ec4-af18-4f3952348d6f">
-<img width="250" alt="6" src="https://github.com/DawidBed99/RPS/assets/128499430/6edc8ef7-f309-4439-87a4-16d50cfa1bc4">
-<img width="250" alt="7" src="https://github.com/DawidBed99/RPS/assets/128499430/60eb9bb5-c190-470b-b7f6-3c1194b8d4d4">
-<img width="250" alt="8" src="https://github.com/DawidBed99/RPS/assets/128499430/562b3fa2-fd32-4a7b-a40f-8f44b8b18d78">
+<img width="350" alt="5" src="https://github.com/DawidBed99/RPS/assets/128499430/9b548032-20ca-4ec4-af18-4f3952348d6f">
+<img width="350" alt="6" src="https://github.com/DawidBed99/RPS/assets/128499430/6edc8ef7-f309-4439-87a4-16d50cfa1bc4">
+<img width="350" alt="7" src="https://github.com/DawidBed99/RPS/assets/128499430/60eb9bb5-c190-470b-b7f6-3c1194b8d4d4">
+<img width="350" alt="8" src="https://github.com/DawidBed99/RPS/assets/128499430/562b3fa2-fd32-4a7b-a40f-8f44b8b18d78">
 
 ### Built with
 
