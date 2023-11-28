@@ -16,18 +16,14 @@ This is a solution to the [Rock, Paper, Scissors game challenge on Frontend Ment
 
 ### The challenge
 
-In this project, main topic was about building out multi-step form as close to the design as possible.
+In this project, main topic was about building out rock, paper, scissors game as close to the design as possible.
 
 ### Functionalities
 
-- Displaying multiple steps containing forms
-- Going back to a previous step to update selections
-- Displaying a summary of selections on the final step and confirming an order
-- Receiving form validation messages if:
-  - A field has been missed
-  - The email address is not formatted correctly
-  - A step is submitted, but no selection has been made
-  - Phone number is not of a required length
+- Selecting between rock, paper and scissors options,
+- Displaying a summary screen with computer choice and result,
+- Opening and closing rules tab,
+- Displaying score,
 - RWD
 
 
@@ -57,12 +53,10 @@ In this project, main topic was about building out multi-step form as close to t
 
 - JavaScript
 - React.js
-- React Router
-- useContext Hook
 
 ### What I learned
 
-This project helped me practice React Router and useContext Hook.
+This project helped me practice JavaScript and React.
 
 ## Author
 
